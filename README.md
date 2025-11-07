@@ -1,2 +1,45 @@
-# Nashi
-a macOS-inspired web code editor that combines the elegance of Apple’s design with the power of modern web technologies. Edit, preview, and share your code in a clean, minimal workspace.
+# 🍐 Nashi
+
+**Nashi** is a macOS-inspired **web code editor** built for developers who appreciate beautiful design and seamless functionality.  
+It combines the aesthetic of Apple’s macOS interface with the flexibility of a modern online editor — offering live previews, syntax highlighting, and an elegant, distraction-free workspace.
+
+The editor comes pre-loaded with a beautiful "Hello World" example. Click Run to see the live preview pane appear with your HTML rendered in real-time!
+
+[Live Demo]()
+
+---
+
+## ✨ Features
+
+- ⚡ Monaco Editor (VS Code's engine) with full syntax highlighting
+- 📝 Line numbers, minimap, autocompletion
+- 🎯 Support for HTML, JavaScript, CSS, Python, JSON, Markdown
+- ▶️ Live preview for HTML files
+- 💾 Save to localStorage (persists between sessions)
+- 📥 Download files with proper extensions
+
+## Keyboard Shortcuts:
+
+⌘S / Ctrl+S - Save
+⌘R / Ctrl+R - Run code
+
+## Status Bar:
+
+Shows current line and column position
+Displays active language
+
+---
+
+### 🖋️ Author
+
+[ashley-booth](https://ashley-booth.com/)
+
+---
+
+### 🪪 License
+
+This project is licensed under the MIT License
+
+---
+
+Built with ❤️ and 🍐
