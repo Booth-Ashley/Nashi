@@ -32,7 +32,7 @@ Displays active language
 
 ### 🖋️ Author
 
-[ashley-booth](https://ashley-booth.com/)
+[Ashley Booth](https://ashley-booth.com/)
 
 ---
 
