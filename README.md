@@ -1,4 +1,9 @@
-# 🍐 Nashi
+<p align="center">
+  <a href="#"><img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/95f5fff3-ed52-4b1a-a332-e8d0dedfdf03" /></a>
+</p> 
+
+
+# Nashi
 
 **Nashi** is a macOS-inspired **web code editor** built for developers who appreciate beautiful design and seamless functionality.  
 It combines the aesthetic of Apple’s macOS interface with the flexibility of a modern online editor — offering live previews, syntax highlighting, and an elegant, distraction-free workspace.
