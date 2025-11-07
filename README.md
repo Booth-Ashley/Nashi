@@ -5,7 +5,7 @@ It combines the aesthetic of Apple’s macOS interface with the flexibility of a
 
 The editor comes pre-loaded with a beautiful "Hello World" example. Click Run to see the live preview pane appear with your HTML rendered in real-time!
 
-[Live Demo]()
+[Live Demo](https://ashley-booth.com/apps/nashi/)
 
 ---
 
